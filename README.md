@@ -28,7 +28,8 @@ Programming Language: Python/Java/C++ (adjust based on your implementation)
 Problem Solving: Backtracking, Recursion
 
 ### Output:
-![image](https://github.com/user-attachments/assets/6e9d91b6-9dd3-4031-9b2e-de0e95b0f538)
+![image](https://github.com/user-attachments/assets/900dae47-bf3d-48a5-902d-3004272ff4d8)
+
 
 ### Conclusion:
 This README description provides a clear and concise explanation of the N-Queens Problem, the algorithm used, and basic instructions for running the solution. It’s designed to be easily understood for anyone browsing your GitHub repository.
